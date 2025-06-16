@@ -1,0 +1,19 @@
+.player-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.scoreCard {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
